@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## System Requirements
+   <ul><li>PHP: <code>^7.2\|^8.0</code></li> <li>Laravel: <code>^5.8</code></li> <li>PhpSpreadsheet: <code>^1.21</code></li> <li>psr/simple-cache: <code>^1.0</code></li> <li>PHP extension <code>php_zip</code> enabled</li> <li>PHP extension <code>php_xml</code> enabled</li> <li>PHP extension <code>php_gd2</code> enabled</li> <li>PHP extension <code>php_iconv</code> enabled</li> <li>PHP extension <code>php_simplexml</code> enabled</li> <li>PHP extension <code>php_xmlreader</code> enabled</li> <li>PHP extension <code>php_zlib</code> enabled</li></ul>
 ## Installation Instruction
     <ul>
     <li>git clone</li>
